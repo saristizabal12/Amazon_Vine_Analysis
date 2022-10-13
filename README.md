@@ -50,6 +50,8 @@ Determine the total number of reviews, the number of 5-star reviews, and the per
 
 ### Deliverable 3: A Written Report on the Analysis (README.md)
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+As we can see from our analysis there was around 51% of reviews that were 5 stars (A total of 48)
+meanwhile there was a total of non-fiveastar reviews was around 39 % making up total 15663
+
+
+
